@@ -16,8 +16,7 @@ Python Boilerplate
 
 
 
-Python Boilerplate contains all the boilerplate you need to create a Python package.
-
+Python Boilerplate contains all the boilerplate you need to create a Python package so you can get up and running fast. 
 
 * Free software: BSD license
 * Documentation: https://python-boilerplate.readthedocs.io.
